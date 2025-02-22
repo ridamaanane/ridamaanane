@@ -1,19 +1,26 @@
-# Profile
-Hello , this is my profile 
+## Hi there, I'm Rida Maanane! 👋  
+🎯 Aspiring Software Engineer | 1337 Student & Developer | Passionate About Innovation & Problem-Solving
 
+<div align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmaanane" alt="rmaanane's 42 stats" /></a>
-
-<div dir="auto">
-    <a href="https://www.linkedin.com/in/achraf-ouazzani-chahidi-7b1155271/" rel="nofollow">
-        <img src="/ACHUX21/ACHUX21/raw/main/icons8-linkedin-circled.svg" alt="LinkedIn" style="max-width: 100%;">
-    </a>
-    <a href="https://iloveweb.online/" rel="nofollow">
-        <img src="/ACHUX21/ACHUX21/raw/main/blogging_9611353.png" alt="ILoveWeb" width="50" height="50" style="max-width: 100%;">
-    </a>
 </div>
 
-<div dir="auto">
-    <a href="https://achux21.online/" rel="nofollow">
-        <img src="/ACHUX21/ACHUX21/raw/main/portfolio_5595342.png" alt="ACHUX21" width="50" height="50" style="max-width: 100%;">
-    </a>
-</div>
+### 🚀 Learning, Growing, and Coding  
+I'm currently a student at **1337 School**, constantly expanding my knowledge in software development and algorithmic problem-solving. I love tackling complex challenges and building efficient, scalable solutions.  
+
+### 💡 What I Do  
+- 💻 **Software Development** – Writing clean, efficient, and scalable code.  
+- 🧩 **Problem-Solving** – Passionate about algorithms and competitive programming.  
+- 📚 **Continuous Learning** – Always exploring new technologies and frameworks.  
+
+### 🛠 Tech Stack  
+- **Languages:** C, C++, Python, JavaScript  
+- **Web Development:** HTML, CSS, React, Node.js  
+- **Tools & Platforms:** Git, Linux, Docker, VS Code  
+
+### 📫 Connect With Me  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_USERNAME/](https://www.linkedin.com/in/rida-maanane-838b06242/))
+
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ridamaanane@gmail.com)
+
+
