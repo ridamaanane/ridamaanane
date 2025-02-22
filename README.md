@@ -15,9 +15,9 @@ I'm currently a student at **1337 School**, constantly expanding my knowledge in
 - 📚 **Continuous Learning** – Always exploring new technologies and frameworks.  
 
 ### 🛠 Tech Stack  
-- **Languages:** C, C++, Python, JavaScript  
-- **Web Development:** HTML, CSS, React, Node.js  
-- **Tools & Platforms:** Git, Linux, Docker, VS Code  
+- **Languages:** C  
+- **Web Development:** HTML, CSS
+- **Tools & Platforms:** Git, Linux, VS Code  
 
 ### 📫 Connect With Me  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rida-maanane-838b06242/)  
