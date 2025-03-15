@@ -1,4 +1,4 @@
-## Hi there, I'm Rida Maanane! 👋  
+ ## Hi there, I'm Rida Maanane! 👋  
 
 🎯 Aspiring Software Engineer | 1337 Student & Developer | Passionate About Innovation & Problem-Solving
 
@@ -6,15 +6,15 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmaanane" alt="rmaanane's 42 stats" /></a>
 </div>
 
-### 🚀 Learning, Growing, and Coding  
+ ### 🚀 Learning, Growing, and Coding  
 I'm currently a student at **1337 School**, constantly expanding my knowledge in software development and algorithmic problem-solving. I love tackling complex challenges and building efficient, scalable solutions.  
 
-### 💡 What I Do  
+ ### 💡 What I Do  
 - 💻 **Software Development** – Writing clean, efficient, and scalable code.  
 - 🧩 **Problem-Solving** – Passionate about algorithms and competitive programming.  
 - 📚 **Continuous Learning** – Always exploring new technologies and frameworks.  
 
-### 🛠 Tech Stack  
+ ### 🛠 Tech Stack  
 - **Languages:** C  
 - **Web Development:** HTML, CSS
 - **Tools & Platforms:** Git, Linux, VS Code  
