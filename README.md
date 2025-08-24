@@ -2,10 +2,6 @@
 
 🎯 Aspiring Software Engineer | 1337 Student & Developer | Passionate About Innovation & Problem-Solving
 
-<div align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmaanane" alt="rmaanane's 42 stats" /></a>
-</div>
-
  ### 🚀 Learning, Growing, and Coding  
 I'm currently a student at **1337 School**, constantly expanding my knowledge in software development and algorithmic problem-solving. I love tackling complex challenges and building efficient, scalable solutions.  
 
@@ -15,7 +11,7 @@ I'm currently a student at **1337 School**, constantly expanding my knowledge in
 - 📚 **Continuous Learning** – Always exploring new technologies and frameworks.  
 
  ### 🛠 Tech Stack  
-- **Languages:** C  
+- **Languages:** C  , C++
 - **Web Development:** HTML, CSS
 - **Tools & Platforms:** Git, Linux, VS Code  
 
