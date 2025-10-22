@@ -11,8 +11,8 @@ I'm currently a student at **1337 School**, constantly expanding my knowledge in
 - 📚 **Continuous Learning** – Always exploring new technologies and frameworks.  
 
  ### 🛠 Tech Stack  
-- **Languages:** C  , C++
-- **Web Development:** HTML, CSS
+- **Languages:** C  , C++, Python
+- **Web Development:** HTML, CSS, PHP, MySQL
 - **Tools & Platforms:** Git, Linux, VS Code  
 
 ### 📫 Connect With Me  
