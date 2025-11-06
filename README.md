@@ -1,16 +1,16 @@
  ## Hi there, I'm Rida Maanane! 👋  
 
-🎯 Aspiring Software Engineer | 1337 Student & Developer | Passionate About Innovation & Problem-Solving
+Software Engineer | 1337 Student & Developer | Passionate About Innovation & Problem-Solving
 
- ### 🚀 Learning, Growing, and Coding  
+ ### Learning, Growing, and Coding  
 I'm currently a student at **1337 School**, constantly expanding my knowledge in software development and algorithmic problem-solving. I love tackling complex challenges and building efficient, scalable solutions.  
 
- ### 💡 What I Do  
+ ### What I Do  
 - 💻 **Software Development** – Writing clean, efficient, and scalable code.  
 - 🧩 **Problem-Solving** – Passionate about algorithms and competitive programming.  
 - 📚 **Continuous Learning** – Always exploring new technologies and frameworks.  
 
- ### 🛠 Tech Stack  
+ ### Tech Stack  
 - **Languages:** C  , C++, Python
 - **Web Development:** HTML, CSS, PHP, MySQL
 - **Tools & Platforms:** Git, Linux, VS Code  
