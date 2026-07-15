@@ -16,7 +16,7 @@ I'm currently a student at **1337 School**, constantly expanding my knowledge in
 - **Tools & Platforms:** Git, Linux, VS Code  
 
 ### 📫 Connect With Me  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rida-maanane-838b06242/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rida-maanane-838b06242/](https://www.linkedin.com/in/d4rkbyt3/))  
 
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ridamaanane@gmail.com)
 
